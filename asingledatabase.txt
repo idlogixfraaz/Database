@@ -3,3 +3,4 @@ this is edited file now
 again
 new branch created
 testing merge with branch 2...
+this is for branch3
