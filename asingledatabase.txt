@@ -2,3 +2,6 @@ This is the file for database work commits
 this is edited file now
 again
 new branch created
+
+
+testing merge with branch 2
